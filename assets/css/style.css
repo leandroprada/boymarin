@@ -1,3 +1,5 @@
+
+
 @font-face {
   font-family: "Ionicons";
   src: url("../fonts/ionicons/fonts/ionicons.eot?v=2.0.0");
@@ -11,6 +13,12 @@
   src: url("../fonts/fontawesome/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0") format("embedded-opentype"), url("../fonts/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0") format("woff2"), url("../fonts/fontawesome/fonts/fontawesome-webfont.woff?v=4.7.0") format("woff"), url("../fonts/fontawesome/fonts/fontawesome-webfont.ttf?v=4.7.0") format("truetype"), url("../fonts/fontawesome/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal; }
+
+.mainName {
+	font-family: 'Jomolhari', serif;
+	font-weight: bold;
+	color: #069498;
+}
 
 .mouse-wrap, .scroll-wrap {
   position: absolute;
@@ -103,7 +111,7 @@
   height: 80px; }
 
 .testimonial_v1 .heading {
-  color: #495057;
+  color: #069498;
   font-size: 18px; }
 
 .testimonial_v1 .subheading {
@@ -112,7 +120,7 @@
 .testimonial_v1 blockquote {
   font-family: "Crimson Text", Georgia, "Times New Roman", Times, serif;
   line-height: 1.7;
-  color: #495057; }
+  color: #069498; }
 
 .testimonial_v1.pb_quote_v1 .media-body {
   position: relative;
@@ -256,6 +264,11 @@
   .pb_feature-v2 .pb_icon i {
     font-size: 36px;
     margin: 0 auto; }
+	
+	.teal {
+	color: #069498;
+}
+
 
 .pb_list_v1 li {
   margin-bottom: 7px; }
@@ -491,7 +504,7 @@
   .pb_cover_v3 .heading,
   .pb_cover_v4 .heading {
     font-size: 62px;
-    color: white;
+    color: #069498;
     font-weight: 300;
     margin-top: 20px;
     margin-bottom: 0px; }
